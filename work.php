@@ -4,14 +4,14 @@
 <nav>
     <div class="navContainer">
         <div class="navLogo">
-            <img id="logo" src="img/logo-white-words.png" alt="">
+             <a href="index.php"><img id="logo" src="img/logo-white-words.png" alt=""></a>
         </div>
 
         <div class="links">
             <ul>
                 <li><a href="index.php">ABOUT</a></li>
-                <li><a href="########">WORK</a></li>
-                <li><a href="########">CONTACT</a></li>
+                <li><a href="work.php">WORK</a></li>
+                <li><a href="contact.php">CONTACT</a></li>
             </ul>
         </div>
 

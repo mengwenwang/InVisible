@@ -231,8 +231,8 @@ nav {
 .contactContainer h1 {
     color: #fff;
     text-transform: uppercase;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 100;
+    font-family: 'Raleway', sans-serif;
+    font-weight: lighter;
     font-size: 4em;
     margin-bottom: 20px;
 }
@@ -252,7 +252,8 @@ nav {
     text-transform: uppercase;
     color: #fff;
     font-family: 'Roboto', sans-serif;
-    font-weight: 300;
+    font-weight: 200;
+    letter-spacing: 2px;
 }
 
 .contactText h6 {
@@ -290,7 +291,7 @@ nav {
     list-style-type: none;
     color: #7c7c7c;
     font-size: 14px;
-    line-height: 220%;
+    line-height: 250%;
 }
 
 .workVertialNav *:hover {
