@@ -4,15 +4,13 @@
          url('as_grammatika-light-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
-
 
 nav {
     width: 100%;
     position: absolute;
     top: 0;
-    z-index: 1;
+    z-index: 2;
 }
 
 .navContainer {
@@ -26,7 +24,7 @@ nav {
 
 .navLogo img {
     display:inline-block;
-    width: 80px;
+    width: 70px;
     margin-top: 20px;
 }
 
@@ -40,7 +38,7 @@ nav {
 
 .links ul li a {
     text-decoration: none;
-    font-size: 1.05em;
+    font-size: 1.02em;
     color: #fff;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
@@ -60,7 +58,7 @@ nav {
     display: flex;
 }
 
-.carousel {
+.topPage .carousel {
     margin: 0;
     width: 100%;
     height: 100vh;
@@ -87,15 +85,16 @@ nav {
 
 .contentContainer h1 {
     text-transform: uppercase;
-    font-family: 'Raleway', sans-serif;
-    font-weight: lighter;
-    font-size: 4em;
+    font-family: 'Alegreya Sans', sans-serif;
+    /* font-family: 'Raleway', sans-serif; */
+    /* font-weight: lighter; */
+    font-size: 5em;
     margin-bottom: 20px;
 }
 
 .contentContainer h6 {
     font-family: 'Raleway', sans-serif;
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-weight: 300;
     letter-spacing: 2px;
     line-height: 150%;
@@ -322,4 +321,182 @@ nav {
 
 .italic {
     font-style: italic;
+}
+
+
+/* <!-- case page --> */
+
+.caseOverlay {
+    position: absolute; 
+    width: 100%; 
+    height: 55vh; 
+    top: 0; 
+    left: 0;
+    background-color: rgba(0,0,0,0.6); 
+    z-index: 1;
+}
+.caseSection {
+    height: 55vh;
+    width: 100%;
+}
+.caseBannerContainer {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.caseBanner{
+    width: 100%;
+    height: 55vh;
+    background-repeat: no-repeat;
+    background-size:2000px 100%;
+    background-position-x: -300px;
+    display: flex;
+}
+
+.caseBannerContainer {
+    align-self: center;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    margin-top: 15vh;
+    justify-content:space-between;
+    z-index: 3;
+}
+
+.casePortrait {
+    width: 15%;
+}
+.casePortrait img {
+    width: 100%;
+    height: auto;
+    border: 5px solid #fff;
+}
+.caseTitle {
+    width: 80%;
+}
+
+.caseTitle h2 {
+    color: #fff;
+    font-family: Arial,sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+
+.caseTitle h4 {
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    margin-top: 26px;
+    line-height: 1.5;
+}
+
+.caseCarousel {
+    width: 100%;
+    height: 80vh;
+    background-color: #fff;
+    display: flex;
+}
+
+.caseCarouselContent {
+    width: 80%;
+    height: 70%;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: space-between;
+}
+
+.caseCaroText {
+    width: 40%;
+}
+
+.caseCaroText * {
+    color: #666666;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+.caseCarouselSection {
+    width: 50%;
+}
+
+.imgContainerItem .carousel-inner {
+    height: 50vh;
+}
+
+.carouselExampleIndicators {
+    height: 50vh;
+}
+
+
+.casePortfolio {
+    width: 100%;
+    height: 65vh;
+    background-color: rgba(78, 38, 85, 0.1);
+    margin: 0;
+    display: block;
+}
+
+.casePortfolioContent {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.casePortTitle h2{
+    text-align: center;
+    padding-top: 10vh;
+    padding-bottom: 40px;
+    color: #390e45;
+    font-size: 24px;
+    letter-spacing: 0.1em;
+}
+
+.casePortImgContainer {
+    height: 30vh;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+}
+.imgContainerItem {
+    width: 30%;
+    position: relative;
+    overflow: hidden;
+}
+.casePortImg {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 230px;
+    overflow: hidden;
+    transition: .2s;
+}
+
+.casePortImg img {
+    width: 100%;
+    height: 100%;
+    transition: .2s;
+}
+
+.caseImgOverlay {
+    background-color: rgba(78, 38, 85, 0.404);
+    position: absolute; 
+    z-index: 2;
+    width: 100%;
+    height: 230px;
+    transition: .2s;
+}
+
+.caseImgOverlay:hover {
+    opacity: 0;
+}
+
+.imgContainerItem:hover .casePortImg {
+    transform: scale(1.1);
 }
