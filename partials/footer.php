@@ -2,7 +2,7 @@
     <div class="containerFoot">
 
         <div class="footLogo">
-            <img src="img/logo-white-words.png" alt="">
+            <a href="index.php"><img src="img/logo-white-words.png" alt=""></a>
         </div>
 
         <div class="copyRight">

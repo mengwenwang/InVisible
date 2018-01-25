@@ -4,7 +4,7 @@
 <nav>
     <div class="navContainer">
         <div class="navLogo">
-            <img src="img/logo-white-words.png" alt="">
+            <a href="index.php"><img src="img/logo-white-words.png" alt=""></a>
         </div>
         <div class="links">
             <ul>
