@@ -1,6 +1,9 @@
 <?php include './partials/header.php' ?>
 
 <input type="text" value="work" id="identifier" hidden>
+
+<div class="workBackground">
+    
 <nav>
     <div class="navContainer">
         <div class="navLogo">
@@ -57,6 +60,7 @@
             <img src="http://via.placeholder.com/300x500">
         </div>
     </div>
+</div>
 
 </div>
 
