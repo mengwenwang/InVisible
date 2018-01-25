@@ -30,7 +30,7 @@ nav {
 
 .links ul li {
     display:inline-block;
-    float: left;
+
     list-style-type: none;
     margin-left:20px;
     padding-top: 20px;
@@ -85,10 +85,10 @@ nav {
 
 .contentContainer h1 {
     text-transform: uppercase;
-    font-family: 'Alegreya Sans', sans-serif;
-    /* font-family: 'Raleway', sans-serif; */
-    /* font-weight: lighter; */
+    /* font-family: 'Alegreya Sans', sans-serif; */
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
     font-size: 5em;
+    font-weight: light;
     margin-bottom: 20px;
 }
 
@@ -270,6 +270,14 @@ nav {
     color: #000;
 }
 
+.workBackground {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    background-image: url(../img/bg-watermarks.png);
+    background-repeat: repeat-y;
+}
+
 .workContainer {
     width: 95%;
     margin: 150px auto;
@@ -396,14 +404,16 @@ nav {
 
 .caseCarousel {
     width: 100%;
-    height: 80vh;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    height: auto;
     background-color: #fff;
     display: flex;
 }
 
 .caseCarouselContent {
     width: 80%;
-    height: 70%;
+    height: auto;
     display: flex;
     flex-direction: row;
     margin: auto;
@@ -426,9 +436,9 @@ nav {
     width: 50%;
 }
 
-.imgContainerItem .carousel-inner {
-    height: 50vh;
-}
+#carouselIndicators .carousel-inner {
+    height: 400px;
+} 
 
 .carouselExampleIndicators {
     height: 50vh;
