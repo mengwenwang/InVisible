@@ -27,7 +27,7 @@
         <!-- left part -->
         <div class="caseCaroText">
             <h6>
-            Spicy jalapeno bacon ipsum dolor amet filet mignon picanha tenderloin shoulder, beef ribs frankfurter fatback biltong meatball turducken beef corned beef. Pork alcatra turducken ham hock prosciutto chuck pork loin boudin corned beef kielbasa frankfurter sirloin tail beef ribs. Buffalo andouille doner bresaola shoulder. Tri-tip doner pork loin jowl strip steak filet mignon pancetta chicken pork belly chuck tenderloin, bacon capicola. Flank cupim capicola doner. Swine beef sausage, leberkas chuck jowl spare ribs tenderloin hamburger.
+            As one of the top 5 women’s ready-to-wear brand in China, V.Grass needs to consolidate their brand premium by integrating international elements with their ad campaign. We proposed Paris as the first stop for both video and photo shoot, because of its unique charm and status in the fashion world.
             </h6>
             
         </div>

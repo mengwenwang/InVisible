@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 
 <nav>
     <div class="navContainer">

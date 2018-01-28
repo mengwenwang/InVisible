@@ -6,14 +6,22 @@
         </div>
 
         <div class="copyRight">
-            <p>© 2017 Cashmere Agency. All rights reserved.</p>
+            <p>© 2018 Invizible. All rights reserved.</p>
         </div>
 
         <div class="contactLink">
-            <i class="fa fa-linkedin" aria-hidden="true"></i>
-            <i class="fa fa-facebook" aria-hidden="true"></i>
-            <i class="fa fa-twitter" aria-hidden="true"></i>
-            <i class="fa fa-instagram" aria-hidden="true"></i>
+            <a target="_blank" href="https://www.linkedin.com/company/inviziblepr/">
+                <i class="fa fa-linkedin" aria-hidden="true"></i>
+            </a>
+            <a target="_blank" href="https://www.linkedin.com/company/inviziblepr/">
+                <i class="fa fa-facebook" aria-hidden="true"></i>
+            </a>
+            <a target="_blank" href="https://www.linkedin.com/company/inviziblepr/">
+                <i class="fa fa-twitter" aria-hidden="true"></i>
+            </a>
+            <a target="_blank" href="https://www.linkedin.com/company/inviziblepr/">
+                <i class="fa fa-instagram" aria-hidden="true"></i>
+            </a>
         </div>
     </div>
 

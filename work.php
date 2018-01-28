@@ -39,25 +39,36 @@
     <div class="campaignsContainer">
 
         <div class="columnCampaigns">
-            <img src="http://via.placeholder.com/300x200">
-            <img src="http://via.placeholder.com/300x400">
-            <img src="http://via.placeholder.com/300x300">
-            <img src="http://via.placeholder.com/300x500">
+            <a href="vgrass.php">
+                <img src="./img/logo/vgrasslogo.png" height="200" width="300">
+            </a>
+            <a href="biggerCode.php">
+                <img src="./img/logo/biggercodelogo.jpg" height="300" width="300">
+            </a>
+            <a href="nanjing.php">
+                <img src="./img/logo/nanjingweeklogo.jpg" height="300" width="300">
+            </a>
         </div>
 
         <div class="columnCampaigns">
-            <img src="http://via.placeholder.com/300x500">
-            <img src="http://via.placeholder.com/300x200">
-            <img src="http://via.placeholder.com/300x400">
-            <img src="http://via.placeholder.com/300x300">
-
+            <a href="lanyu.php">
+                <img src="./img/logo/lanyulogo.png" height="400" width="300">
+            </a>
+            <a href="hk.php">
+                <img src="./img/logo/HelenKellerlogo.jpg" height="200" width="300">
+            </a>
+            <a href="modernVice.php">
+                <img src="./img/logo/modernvicelogo.png" height="350" width="300">
+            </a>
         </div>
 
         <div class="columnCampaigns">
-            <img src="http://via.placeholder.com/300x300">
-            <img src="http://via.placeholder.com/300x400">
-            <img src="http://via.placeholder.com/300x200">
-            <img src="http://via.placeholder.com/300x500">
+            <a href="olaBaby.php">
+                <img src="./img/logo/olababylogo.png" height="300" width="300">
+            </a>
+            <a href="anmani.php">
+                <img src="./img/logo/anmanilogo.jpg" height="200" width="300">
+            </a>
         </div>
     </div>
 </div>

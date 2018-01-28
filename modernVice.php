@@ -28,8 +28,11 @@
 
         <!-- left part -->
         <div class="caseCaroText">
+            <h4>
+                #Social Media #Content Creation
+            </h4>
             <h6>
-            Spicy jalapeno bacon ipsum dolor amet filet mignon picanha tenderloin shoulder, beef ribs frankfurter fatback biltong meatball turducken beef corned beef. Pork alcatra turducken ham hock prosciutto chuck pork loin boudin corned beef kielbasa frankfurter sirloin tail beef ribs. Buffalo andouille doner bresaola shoulder. Tri-tip doner pork loin jowl strip steak filet mignon pancetta chicken pork belly chuck tenderloin, bacon capicola. Flank cupim capicola doner. Swine beef sausage, leberkas chuck jowl spare ribs tenderloin hamburger.
+                NYC  based brand modern vice is looking for great social media contents to engage their target consumer – cool and fashion forward women.We were enlisted to create a monthly plan that will promote the brand as a new luxury brand that’s the #MadeinNYC ,#handmade, and #newyorkstreetstyle.By utilizing our branding and production capacity, we have help Modern Vice created well- thought-out and cost-efficient social media contents. 
             </h6> 
         </div>
 

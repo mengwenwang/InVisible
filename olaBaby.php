@@ -28,7 +28,7 @@
         <!-- left part -->
         <div class="caseCaroText">
             <h6>
-            Spicy jalapeno bacon ipsum dolor amet filet mignon picanha tenderloin shoulder, beef ribs frankfurter fatback biltong meatball turducken beef corned beef. Pork alcatra turducken ham hock prosciutto chuck pork loin boudin corned beef kielbasa frankfurter sirloin tail beef ribs. Buffalo andouille doner bresaola shoulder. Tri-tip doner pork loin jowl strip steak filet mignon pancetta chicken pork belly chuck tenderloin, bacon capicola. Flank cupim capicola doner. Swine beef sausage, leberkas chuck jowl spare ribs tenderloin hamburger.
+            Olababy is a brand focusing on creating innovative and aesthetically pleasing baby products. Invisible was enlisted to compose monthly social media content that can help brand build up a clear brand image and optimize their digital presence. By analyzing the product feature and utilizing our production capacity, we have helped Olababy create content that effectively promoted their unique product feature and core competence.
             </h6>
             
         </div>
