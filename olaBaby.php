@@ -12,10 +12,6 @@
             <div class="casePortrait">
                 <img src="../imgCase/olababy_t.jpg" alt="">
             </div>
-            <div class="caseTitle">
-                <h2>Ola Baby</h2>
-                
-            </div>
         </div>
     </div>
 
@@ -74,41 +70,7 @@
 </div>
 
 
-<!-- 3 -->
-<div class="casePortfolio">
-    <div class="casePortfolioContent">
-
-        <div class="casePortTitle">
-            <h2>SEE MORE</h2>
-        </div>
-
-        <div class="casePortImgContainer">
-            <div class="imgContainerItem">
-                <div class="caseImgOverlay">
-                </div>
-                <div class="casePortImg">
-                    <img src="../imgCase/thumbnail-lanyu-pink.jpg" alt="">
-                </div>
-            </div>  
-            <div class="imgContainerItem">
-                <div class="caseImgOverlay">
-                </div>
-                <div class="casePortImg">
-                    <img src="../imgCase/thumbnail-biggercode.jpg" alt="">
-                </div>
-            </div>
-            <div class="imgContainerItem">
-                <div class="caseImgOverlay">
-                </div>
-                <div class="casePortImg">
-                    <img src="../imgCase/thumbnail-helen-keller-NY.png" alt="">
-                </div>
-            </div>
-        </div>
-
-
-    </div>
-</div>
+<?php include './partials/seemore.php' ?>
 
 
 <?php include './partials/footer.php' ?>

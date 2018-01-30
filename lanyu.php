@@ -13,7 +13,6 @@
                 <img src="../imgCase/lanyu_t.jpg" alt="">
             </div>
             <div class="caseTitle">
-                <h2>LANYU</h2>
                 <!-- <h4><i>LANYU </i> 
                 LANYU is looking to expand their U.S market via being part of New York Fashion Week. Since the brand is little knowns in U.S. We have to help the brand quickly break into the U.S market, we developed a strategies that included both digital and traditional PR avenue. The brand has a strong preference to work with celebrities, we secure and manage the celebrity appearances for the brand.
                 </h4> -->
@@ -77,43 +76,7 @@
     </div>
 </div>
 
-
-<!-- 3 -->
-<div class="casePortfolio">
-    <div class="casePortfolioContent">
-
-        <div class="casePortTitle">
-            <h2>SEE MORE</h2>
-        </div>
-
-        <div class="casePortImgContainer">
-            <div class="imgContainerItem">
-                <div class="caseImgOverlay">
-                </div>
-                <div class="casePortImg">
-                    <img src="../imgCase/thumbnail-lanyu-pink.jpg" alt="">
-                </div>
-            </div>  
-            <div class="imgContainerItem">
-                <div class="caseImgOverlay">
-                </div>
-                <div class="casePortImg">
-                    <img src="../imgCase/thumbnail-biggercode.jpg" alt="">
-                </div>
-            </div>
-            <div class="imgContainerItem">
-                <div class="caseImgOverlay">
-                </div>
-                <div class="casePortImg">
-                    <img src="../imgCase/thumbnail-helen-keller-NY.png" alt="">
-                </div>
-            </div>
-        </div>
-
-
-    </div>
-</div>
-
+<?php include './partials/seemore.php' ?>
 
 
 

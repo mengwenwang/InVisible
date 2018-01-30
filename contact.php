@@ -13,14 +13,14 @@
                 <h5>Email</h5>
                 <h6>info@invizible.co</h6>
             </div>
-            <div class="contactText">
+            <!-- <div class="contactText">
                 <h5>Phone</h5>
                 <h6>1-(347)-556-2484</h6>
             </div>
             <div class="contactText">
                 <h5>Address</h5>
                 <h6>1412 Broadway, FL 21 <br>New York, NY 10018</h6>
-            </div>
+            </div> -->
         </div>
 
         <div class="contactPageLink">

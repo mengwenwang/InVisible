@@ -4,43 +4,60 @@
 
 
 <div class="topPage">
-
-    <div id="carouselSlide" class="carousel slide" data-ride="carousel">
-      <div class="carousel-inner">
-
-        <div class="carousel-item active">
-            <img src="img/s1.jpg" alt="First slide">
+    <div class="owl-carousel owl-theme">
+        <div class="item" style="background-image:url(./img/s1.jpg)">
             <div class="contentContainer">
                 <h1>In Visible</h1>
                 <h6 class="fontsforweb_ufontscomfuturabook">Deeply immersed in what's "IN", <br>we thrive to make your brand "VISIBLE".</h6>
             </div>
         </div>
-
-        <div class="carousel-item">
-            <img src="img/s2.jpg" alt="Second slide">
+        <div class="item" style="background-image:url(./img/s2.jpg)">
             <div class="contentContainer">
                 <h1>In Visible</h1>
                 <h6 class="fontsforweb_ufontscomfuturabook">Deeply immersed in what's "IN", <br>we thrive to make your brand "VISIBLE".</h6>
             </div>
         </div>
-        <div class="carousel-item">
-            <img src="img/s3.jpg" alt="Third slide">
+        <div class="item" style="background-image:url(./img/s3.jpg)">
             <div class="contentContainer">
                 <h1>In Visible</h1>
                 <h6 class="fontsforweb_ufontscomfuturabook">Deeply immersed in what's "IN", <br>we thrive to make your brand "VISIBLE".</h6>
             </div>
         </div>
-
-        <div class="carousel-item">
-            <img src="img/s4.jpg" alt="Fourth slide">
+        <div class="item" style="background-image:url(./img/s4.jpg)">
             <div class="contentContainer">
                 <h1>In Visible</h1>
                 <h6 class="fontsforweb_ufontscomfuturabook">Deeply immersed in what's "IN", <br>we thrive to make your brand "VISIBLE".</h6>
             </div>
         </div>
-      </div>
     </div>
+    <!-- <div id="carouselSlide" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+ 
+            <div class="carousel-item" style="background-image:url(./img/s1.jpg)">
+                
+            </div>
 
+            <div class="carousel-item" style="background-image:url(./img/s2.jpg)">
+                <div class="contentContainer">
+                    <h1>In Visible</h1>
+                    <h6 class="fontsforweb_ufontscomfuturabook">Deeply immersed in what's "IN", <br>we thrive to make your brand "VISIBLE".</h6>
+                </div>
+            </div>
+            <div class="carousel-item" style="background-image:url(./img/s3.jpg)">
+                <div class="contentContainer">
+                    <h1>In Visible</h1>
+                    <h6 class="fontsforweb_ufontscomfuturabook">Deeply immersed in what's "IN", <br>we thrive to make your brand "VISIBLE".</h6>
+                </div>
+            </div>
+
+            <div class="carousel-item" style="background-image:url(./img/s4.jpg)">
+                <div class="contentContainer">
+                    <h1>In Visible</h1>
+                    <h6 class="fontsforweb_ufontscomfuturabook">Deeply immersed in what's "IN", <br>we thrive to make your brand "VISIBLE".</h6>
+                </div>
+            </div>
+        </div>
+    </div> -->
 </div>
 
 <!-- <div class="topPage">
@@ -59,15 +76,12 @@
         </p>
         <p class="fontsforweb_ufontscomfuturabook">We are deeply immersed in the Chinese music, art, fashion, and lifestyle scenes. On an everyday basis, 
             we traverse the ever-evolving Chinese media landscape, and are communicating with the multicultural millennials of China, 24-7. 
-            We understand how they share information, what types of ideas inspire them, and why they choose one item over another.
+            We understand how they share information, what types of ideas inspire them, and why they choose one item over another. Due to our team's bi-cultural DNA and presence in New York and China, we understand you both at home and away.
         </p>
     </div>
 </section>
 
 
-<section class="videoPage">
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/81ymFnvpfDc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</section>
 
 
 <section class="servicePage">
@@ -95,13 +109,7 @@
 
     </div>
 
-    <div class="containerDNA">
-        <p>Due to our team’s bi-cultural DNA and 
-            <br> presence in New York and China,
-            <br> we understand you both 
-            <br> at home and away.
-        </p>
-    </div>
+    
 
 </section>
 

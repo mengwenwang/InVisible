@@ -23,7 +23,7 @@
 
 <div class="workContainer">
 
-    <div class="workVertialNav">
+    <!-- <div class="workVertialNav">
         <ul>
             <li><a href="***">BRAND COMMUNICATIONS</a></li>
             <li><a href="***">EVENTS</a></li>
@@ -34,41 +34,93 @@
             <li><a href="***">CONTENT CREATION</a></li>
             <li><a href="***">CELEBRITY WRANGLING</a></li>
         </ul>
-    </div>
-
+    </div> -->
+    
+    
+<section class="videoPage">
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/81ymFnvpfDc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</section>
     <div class="campaignsContainer">
-
-        <div class="columnCampaigns">
-            <a href="vgrass.php">
-                <img src="./img/logo/vgrasslogo.png" height="200" width="300">
-            </a>
-            <a href="biggerCode.php">
-                <img src="./img/logo/biggercodelogo.jpg" height="300" width="300">
-            </a>
-            <a href="nanjing.php">
-                <img src="./img/logo/nanjingweeklogo.jpg" height="300" width="300">
-            </a>
-        </div>
-
-        <div class="columnCampaigns">
-            <a href="lanyu.php">
-                <img src="./img/logo/lanyulogo.png" height="400" width="300">
-            </a>
-            <a href="hk.php">
-                <img src="./img/logo/HelenKellerlogo.jpg" height="200" width="300">
-            </a>
-            <a href="modernVice.php">
-                <img src="./img/logo/modernvicelogo.png" height="350" width="300">
-            </a>
-        </div>
-
-        <div class="columnCampaigns">
-            <a href="olaBaby.php">
-                <img src="./img/logo/olababylogo.png" height="300" width="300">
-            </a>
-            <a href="anmani.php">
-                <img src="./img/logo/anmanilogo.jpg" height="200" width="300">
-            </a>
+        <div class="row">
+            <div class="col-md-4 col-sm-6 col-lg-4">
+                <a href="anmani.php">
+                    <div class="imgContainerItem">
+                        <div class="caseImgOverlay">
+                        </div>
+                        <div class="casePortImg">
+                            <img src="../imgCase/anmani_t.jpg" alt="">
+                        </div>
+                    </div>  
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6 col-lg-4">
+                <a href="vgrass.php">
+                    <div class="imgContainerItem">
+                        <div class="caseImgOverlay">
+                        </div>
+                        <div class="casePortImg">
+                            <img src="../imgCase/vgrass_t.jpg" alt="">
+                        </div>
+                    </div>  
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6 col-lg-4">
+                <a href="hk.php">
+                    <div class="imgContainerItem">
+                        <div class="caseImgOverlay">
+                        </div>
+                        <div class="casePortImg">
+                            <img src="../imgCase/hk_t.jpg" alt="">
+                        </div>
+                    </div>  
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6 col-lg-4">
+                <a href="modernVice.php">
+                    <div class="imgContainerItem">
+                        <div class="caseImgOverlay">
+                        </div>
+                        <div class="casePortImg">
+                            <img src="../imgCase/modern_t.jpg" alt="">
+                        </div>
+                    </div>  
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6 col-lg-4">
+                <a href="/lanyu.php">
+                    <div class="imgContainerItem">
+                        <div class="caseImgOverlay">
+                        </div>
+                        <div class="casePortImg">
+                            <img src="../imgCase/lanyu_t.jpg" alt="">
+                        </div>
+                    </div>  
+                </a>
+            </div>
+            
+            <div class="col-md-4 col-sm-6 col-lg-4">
+                <a href="olaBaby.php">
+                    <div class="imgContainerItem">
+                        <div class="caseImgOverlay">
+                        </div>
+                        <div class="casePortImg">
+                            <img src="../imgCase/olababy_t.jpg" alt="">
+                        </div>
+                    </div>  
+                </a>
+            </div>
+            
+            <div class="col-md-4 col-sm-6 col-lg-4">
+                <a href="biggerCode.php">
+                    <div class="imgContainerItem">
+                        <div class="caseImgOverlay">
+                        </div>
+                        <div class="casePortImg">
+                            <img src="../imgCase/biggercode_t.jpg" alt="">
+                        </div>
+                    </div> 
+                </a>
+            </div>
         </div>
     </div>
 </div>

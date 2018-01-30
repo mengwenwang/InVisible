@@ -12,10 +12,6 @@
             <div class="casePortrait">
                 <img src="../imgCase/anmani_t.jpg" alt="">
             </div>
-            <div class="caseTitle">
-                <h2>Anmani</h2>
-                
-            </div>
         </div>
     </div>
 
@@ -28,8 +24,7 @@
         <!-- left part -->
         <div class="caseCaroText">
             <h6>
-            Spicy jalapeno bacon ipsum dolor amet filet mignon picanha tenderloin shoulder, beef ribs frankfurter fatback biltong meatball turducken beef corned beef. Pork alcatra turducken ham hock prosciutto chuck pork loin boudin corned beef kielbasa frankfurter sirloin tail beef ribs. Buffalo andouille doner bresaola shoulder. Tri-tip doner pork loin jowl strip steak filet mignon pancetta chicken pork belly chuck tenderloin, bacon capicola. Flank cupim capicola doner. Swine beef sausage, leberkas chuck jowl spare ribs tenderloin hamburger.
-            </h6>
+            ANMANI is a leading womenswear brand in China, which infuses the elegance and sophistication of French fashion into their design. Invisible was enlisted to create campaign for their newest collection. By understanding the brand proposition and design style, we composed a campaign integrating the urban sense of New York with the romance of France, which not only enpicted the brand premium but also enhanced the brand's international image.            </h6>
 
         </div>
 
@@ -45,12 +40,6 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                    <img class="d-block w-100" src="../imgCase/anmani1.jpg" alt="First slide">
-                    </div>
-                    <div class="carousel-item">
-                    <img class="d-block w-100" src="../imgCase/anmani2.jpg" alt="Second slide">
-                    </div>
-                    <div class="carousel-item">
                     <img class="d-block w-100" src="../imgCase/anmani3.jpg" alt="Second slide">
                     </div>
                     <div class="carousel-item">
@@ -74,41 +63,7 @@
 </div>
 
 
-<!-- 3 -->
-<div class="casePortfolio">
-    <div class="casePortfolioContent">
-
-        <div class="casePortTitle">
-            <h2>SEE MORE</h2>
-        </div>
-
-        <div class="casePortImgContainer">
-            <div class="imgContainerItem">
-                <div class="caseImgOverlay">
-                </div>
-                <div class="casePortImg">
-                    <img src="../imgCase/thumbnail-lanyu-pink.jpg" alt="">
-                </div>
-            </div>  
-            <div class="imgContainerItem">
-                <div class="caseImgOverlay">
-                </div>
-                <div class="casePortImg">
-                    <img src="../imgCase/thumbnail-biggercode.jpg" alt="">
-                </div>
-            </div>
-            <div class="imgContainerItem">
-                <div class="caseImgOverlay">
-                </div>
-                <div class="casePortImg">
-                    <img src="../imgCase/thumbnail-helen-keller-NY.png" alt="">
-                </div>
-            </div>
-        </div>
-
-
-    </div>
-</div>
+<?php include './partials/seemore.php' ?>
 
 
 
